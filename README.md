@@ -55,4 +55,4 @@ Python · GraphQL · REST · SQLite · Obsidian Markdown · OAuth2
 
 ## License
 
-No license has been selected yet. Add a license before inviting external contributions.
+
