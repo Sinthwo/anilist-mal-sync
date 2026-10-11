@@ -1,5 +1,7 @@
 # Obsidian Anime Sync
 
+**Languages:** English | [Français](README.fr.md) | [Deutsch](README.de.md) | [日本語](README.ja.md)
+
 **A Python-based synchronization project for Obsidian, AniList and MyAnimeList.**
 
 > **Status:** Project scaffold only — no application logic is implemented yet.
@@ -52,6 +54,21 @@ Python · GraphQL · REST · SQLite · Obsidian Markdown · OAuth2
 4. Identity matching and migration
 5. Conflict-aware synchronization
 6. Dashboards and automation
+
+## Documentation
+
+These pages are placeholders; their content has not been written yet. Each page links to its translations.
+
+- [Architecture](docs/architecture.md)
+- [Authentication](docs/authentication.md)
+- [CLI reference](docs/cli-reference.md)
+- [Configuration](docs/configuration.md)
+- [Conflict resolution](docs/conflict-resolution.md)
+- [Database schema](docs/database-schema.md)
+- [Installation](docs/installation.md)
+- [Obsidian integration](docs/obsidian-integration.md)
+- [Sync algorithm](docs/sync-algorithm.md)
+- [Troubleshooting](docs/troubleshooting.md)
 
 ## License
 
